@@ -1,0 +1,6 @@
+kfp
+google-cloud-aiplatform>=1.16.0
+scikit-learn
+pandas
+numpy
+joblib
